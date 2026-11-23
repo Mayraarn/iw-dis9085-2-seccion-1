@@ -32,8 +32,9 @@ https://www.figma.com/design/WtqUSLnq0pIqg2OgkjOBNZ/PORTAFOLIO-JUAN-MU%C3%91OZ?m
 
 Está IA me ayudo en la mayoría de la organización del diseño que hice en Figma, en base a lo que tenía del trabajo de la actividad 2 (Página sobre Audifonos JBL)
 
-Link de página web del portafolio via github: [
-](https://juanmunoz10-sketch.github.io/portafolio-juan/)
+Link de página web del portafolio via github:
+https://juanmunoz10-sketch.github.io/portafolio-juan/
+
 CONCEPTOS/TERMINOS DE INTEFACES WEB: 
 ■ Breakpoints: Punto de quiebre de la pantalla, donde sus extremos se expanden, los espacios de los gráficos se separan, alargan o al revés, generalmente relacionado con las dimensiones de pantalla entre el formato mobile y el formato dessktop/escritorio.
 ■ Fuentes tipográficas: Estilo de letra desde una librería de estilo gráfico de letras.
@@ -42,3 +43,4 @@ CONCEPTOS/TERMINOS DE INTEFACES WEB:
 ■ User Experience (UX): Es el como se comporta, se organiza y se siente un producto digital. Esto incluye toda la estructura de la arquitectura de información, el manejo, su usabilidad, accesibilidad y la investigación de las necesidades del usuario.
 
 ■ User Interface (UI): La dimensión visible, donde las gráficas visuales y sensoriales se dan cada vez que el usuario enteractúa con las mismas. Aquí está la tipografía, color, componentes como los que son: botones/button, cards, imputs. Aquí predomina la jerarquía visual como también los sistemas de diseño.
+
