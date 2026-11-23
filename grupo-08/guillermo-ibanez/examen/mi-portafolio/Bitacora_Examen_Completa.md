@@ -1,6 +1,7 @@
 # Bitácora / Portafolio Examen
 
-https://www.figma.com/design/OgOypnD8pmgQdBuEAz1LvV/Guillermo_Ib%C3%A1%C3%B1ez_Examen?node-id=65-50&t=4UtCKJTQP6Nj3rnA-1
+PORTAFOLIO: https://guilleibanez.github.io/portafolio_guibel/
+FIGMA:https: //www.figma.com/design/OgOypnD8pmgQdBuEAz1LvV/Guillermo_Ib%C3%A1%C3%B1ez_Examen?node-id=65-50&t=4UtCKJTQP6Nj3rnA-1
 
 La idea de la página es que sea limpia y poco cargada visualmente. Lo que mas debe resaltar son los proyectos, los títulos y las fotos de las maquetas, procesos o resultados finales.
 

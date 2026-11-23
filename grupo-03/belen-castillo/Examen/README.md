@@ -4,6 +4,9 @@ https://www.figma.com/design/o40EBU5M3OdI6YZ84nSSYk/Examen?node-id=0-1&t=6J2QyQ3
 ## Github pages
 https://bombobby.github.io/bombobby-portafolio/index.html
 
+## Repo
+https://github.com/bombobby/bombobby-portafolio
+
 ## 1 Proyecto
 Portafolio web personal enfocado en mostrar mi trabajo integral como diseñadora. El sitio se divide en dos áreas principales: los mejores proyectos desarrollados en la carrera y una sección dedicada a mis proyectos personales de ilustración y dibujo digital. 
 
@@ -175,6 +178,7 @@ Ahora ya todo funciona.
   * La animación de texto que cambia de color progresivamente a medida que se baja con el scroll
   * La implementación de un botón de volumen en el reproductor/carrusel de video, el cual finalmente no me sirvió del todo porque sigo sin escuchar los videos.
 * **Autoría propia:** La identidad visual, la creación de mis trabajos de diseño e ilustración, el diseño en Figma y las decisiones finales del portafolio son de mi autoría.
+
 
 
 

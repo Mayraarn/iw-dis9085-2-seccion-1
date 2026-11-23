@@ -16,6 +16,10 @@ Probaré haciendo un poco de ambas.
 
 [pumpkinguurl](https://pumpkinguurl.github.io/pumpkinguurl/)
 
+## Repo
+
+[repositorio](https://github.com/pumpkinguurl/pumpkinguurl)
+
 ## Pensamientos mientras organizo que poner
 
  **Secciones para la página**
@@ -447,4 +451,5 @@ Finalmente le pregunté como publicar la página en Github y fue un caos, que te
 
 >Para hacer cambios después
 >En el repositorio aprieta Add file → Upload files y sube el archivo corregido con el mismo nombre: reemplaza al anterior. Para cambios chicos de texto también puedes abrir el archivo y editarlo con el lápiz. Cada cambio se demora como un minuto en verse; recarga con Ctrl + F5.
+
 
